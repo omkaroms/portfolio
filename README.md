@@ -39,3 +39,5 @@ Then visit `http://localhost:8000`.
 
 ## Notes
 All project descriptions and employment details in this starter are based on the resume supplied for this portfolio. Project cards are presented as selected work/focus areas, not as links to public source repositories.
+
+----------------
